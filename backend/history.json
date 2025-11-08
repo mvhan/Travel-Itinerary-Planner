@@ -1,0 +1,86 @@
+[
+  {
+    "user_id": 1,
+    "timestamp": "2025-11-08T15:08:10.230672",
+    "origin": "Ha Noi",
+    "destination": "Da Lat",
+    "start_date": "2025-11-08",
+    "end_date": "2025-11-10",
+    "interests": [
+      "Food"
+    ],
+    "pace": "Normal",
+    "itinerary": {
+      "Day 1": {
+        "Morning": "Visit Bach Mai Street for a traditional Vietnamese breakfast. Enjoy Pho or Banh Mi at one of the local cafes.",
+        "Afternoon": "Head to the Old Quarter and explore Dong Xuan Market. Try local street food like Nem Ran (Vietnamese spring rolls), Banh Goi (fried dumplings) and Bun Cha (grilled pork vermicelli).",
+        "Evening": "Experience Hanoi's culinary scene by dining at a local restaurant specializing in Vietnamese cuisine. Some recommendations include Koto Restaurant, Cha Ca La Vong or La Terrazza."
+      },
+      "Day 2": {
+        "Morning": "Early departure to Da Lat (approx. 6-hour bus ride). Upon arrival, visit the Central Market for a taste of local fruits and snacks.",
+        "Afternoon": "Visit Cang Ve Village, known for its coffee farms. Try their signature weasel coffee, made from beans eaten by civets.",
+        "Evening": "Dine at Le Petit Cafe, a charming French-inspired restaurant serving both Vietnamese and Western dishes."
+      },
+      "Day 3": {
+        "Morning": "Explore the Valley of Love and admire its unique architecture. Visit the heart-shaped lake, enjoy a cup of coffee or tea at one of the nearby cafes.",
+        "Afternoon": "Head to Dalat Flower Gardens for a stroll among various colorful blooms. Don't forget to try local desserts like Xoi Xeo (square glutinous rice) and Che (sweet soup).",
+        "Evening": "Dine at Nguyen Truong To Street, known for its street food offerings. Try popular dishes such as Suon Nuong Muoi Ot (grilled pork neck with salt and pepper), Bun Oc (snail vermicelli) or Banh Canh Ca Kho To (wide noodle soup with deep-fried fish cake)."
+      }
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2025-11-08T15:13:24.524724",
+    "origin": "Ho Chi Minh",
+    "destination": "Da Lat",
+    "start_date": "2025-11-08",
+    "end_date": "2025-11-09",
+    "interests": [
+      "Culture",
+      "Adventure"
+    ],
+    "pace": "Normal",
+    "itinerary": {
+      "Day 1": {
+        "Morning": "Visit the Cu Chi Tunnels: Spend your morning exploring the Cu Chi Tunnels, an immense network of underground tunnels constructed by Vietnamese fighters during the Vietnam War. The tunnels offer a unique insight into the history and resilience of Vietnam.",
+        "Afternoon": "City Tour & War Remnants Museum: After lunch, take a tour around Ho Chi Minh City to visit key cultural landmarks such as the Notre-Dame Cathedral, Central Post Office, and the Reunification Palace. Don't miss out on the War Remnants Museum to learn more about Vietnam's history during the war years.",
+        "Evening": "Experience Pham Ngu Lao Street Nightlife: Head to Pham Ngu Lao Street for dinner at one of the vibrant street food stalls. Afterward, enjoy the lively atmosphere and check out some of the bars or live music venues in the area."
+      },
+      "Day 2": {
+        "Morning": "Travel to Da Lat: Check-out from your hotel and travel to Da Lat by road (approximately 6 hours). Enjoy the scenic route through the Central Highlands, passing coffee plantations and lush mountains.",
+        "Afternoon": "Valley of Love & Tuyen Lam Lake: Upon arrival in Da Lat, visit the Valley of Love with its unique heart-shaped lake, statues, and stunning views. Take a boat ride around Tuyen Lam Lake to appreciate the picturesque surroundings.",
+        "Evening": "Explore Da Lat Night Market: In the evening, head to Da Lat Night Market for souvenir shopping, street food, and local performances. Try some specialties like Dalat wine, strawberries, or coffee."
+      }
+    }
+  },
+  {
+    "user_id": 2,
+    "timestamp": "2025-11-08T15:23:13.142544",
+    "origin": "Ha Noi",
+    "destination": "Da Nang",
+    "start_date": "2025-11-08",
+    "end_date": "2025-11-10",
+    "interests": [
+      "Food",
+      "Nightlife"
+    ],
+    "pace": "Normal",
+    "itinerary": {
+      "Day 1": {
+        "Morning": "Hanoi Old Quarter Tour - Start your day with a leisurely walk around the ancient streets of Hanoi's Old Quarter. Visit popular destinations like St. Joseph's Cathedral, the Hoan Kiem Lake, and the Ngoc Son Temple.",
+        "Afternoon": "Cooking Class - After lunch, immerse yourself in a traditional Vietnamese cooking class to learn about local cuisine and prepare some delicious dishes yourself.",
+        "Evening": "Street Food Tour - Explore Hanoi's vibrant nightlife by indulging in a street food tour. Taste various delicacies such as Bun Cha, Pho, and Banh Mi at different food stalls."
+      },
+      "Day 2": {
+        "Morning": "Train Journey to Da Nang - Check out from your hotel early in the morning and take a scenic train ride from Hanoi to Da Nang. The journey offers stunning views of Vietnam's countryside.",
+        "Afternoon": "Hoi An Ancient Town Visit - Upon arrival in Da Nang, head to Hoi An ancient town. Explore the colorful lantern-lit streets, historic buildings, and famous Japanese Covered Bridge.",
+        "Evening": "Nightlife in Hoi An - Discover Hoi An's lively nightlife scene by visiting bars and pubs like Mango Rooms, Cargo Club, and The Funky Monkey Cafe Bar."
+      },
+      "Day 3": {
+        "Morning": "My Khe Beach - Wake up early and head to My Khe Beach in Da Nang for a relaxing morning by the sea. Enjoy swimming or sunbathing.",
+        "Afternoon": "Marble Mountains Tour - Spend your afternoon exploring the Marble Mountains, a cluster of five limestone hills with caves, tunnels, and Buddhist sanctuaries.",
+        "Evening": "Dining at Riverside Restaurants - End your day by having dinner at one of Da Nang's riverside restaurants. Enjoy the beautiful views while savoring seafood dishes from local specialties."
+      }
+    }
+  }
+]
