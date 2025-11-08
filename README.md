@@ -17,21 +17,8 @@ Dự án này xây dựng ứng dụng lập kế hoạch hành trình du lịch
 
 ## Cấu trúc thư mục
 
-Travel-Itinerary-Planner/
-│
-├── backend/
-│   ├── server.py
-│   ├── users.json
-│   └── history.json
-│
-├── frontend/
-│   └── app.py
-│
-├── venv/
-│
-├── requirements.txt
-│
-└── README.md
+<img width="368" height="477" alt="image" src="https://github.com/user-attachments/assets/383f0041-8e63-453d-97e4-ddfb7959d636" />
+
 
 ## Tính năng
 - Hệ thống đăng ký và đăng nhập người dùng cơ bản
