@@ -15,6 +15,24 @@ Dự án này xây dựng ứng dụng lập kế hoạch hành trình du lịch
 
 ---
 
+## Cấu trúc thư mục
+
+Travel-Itinerary-Planner/
+│
+├── backend/
+│   ├── server.py
+│   ├── users.json
+│   └── history.json
+│
+├── frontend/
+│   └── app.py
+│
+├── venv/
+│
+├── requirements.txt
+│
+└── README.md
+
 ## Tính năng
 - Hệ thống đăng ký và đăng nhập người dùng cơ bản
 - Tạo lịch trình du lịch bằng mô hình LLM (Mistral qua Ollama)
